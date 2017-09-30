@@ -27,6 +27,7 @@ h3{
   font-size: 23px;
   font-weight: bold;
   color: white;
+  text-align: center;
 }
 
 
@@ -35,7 +36,7 @@ h3{
   image="images/the-flatiron-building.png";
   background-size: cover;
   background-position: top;
-  height: 100px;
+  height: 50px;
 }
 
 p {
@@ -48,5 +49,25 @@ a{
   font-family: Helvetica;
   font-size: 18px;
   color: white;
+  text-align: center;
+}
+
+footer{
+  font-size: 11px;
+  background-color: dimgray;
+  color: white;
+  font-family: Helvetica;
+
+}
+a{
+  font-size: 11px;
+}
+
+
+
+}
+.nav{
+  font-family: Helvetica;
+  font-size: 18px;
   text-align: center;
 }
